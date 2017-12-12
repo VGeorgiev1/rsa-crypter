@@ -1,5 +1,5 @@
 require "prime.rb"  
-require "base64"
+
 
 class RSA
     def initialize n, e, d
